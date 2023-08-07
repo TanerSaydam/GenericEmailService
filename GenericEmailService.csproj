@@ -6,13 +6,13 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Generic Email Service</Title>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Taner Saydam</Authors>
     <Company>Taner Saydam</Company>
     <Description>This nuget package have an Service for Send Email.</Description>
     <Copyright>Copyright 2023</Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/TanerSaydam/GenericEmailService-Nuget</RepositoryUrl>
+    <RepositoryUrl>https://github.com/TanerSaydam/GenericEmailService</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>emailservice</PackageTags>
     <PackageIcon>mail-icon.png</PackageIcon>
