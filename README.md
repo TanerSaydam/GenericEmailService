@@ -36,7 +36,6 @@ This library have two methods
 
 ## Configuration
 ```CSharp
-//You can choose SmtpClient method
 EmailConfigurations configurations = new(
                                         Stmp: "smtp.example.com",
                                         Password: "password",
@@ -45,7 +44,7 @@ EmailConfigurations configurations = new(
                                         Html: true);
 ```
 
-## Use With Net
+## Use Net
 ```CSharp
 EmailModel<Attachment> model = new(
                                   Configurations: configurations,
