@@ -1,6 +1,6 @@
 ﻿# Dependency
 
-This library was created by .Net 7.0
+This library was created by .Net 8.0
 
 ## Install
 
